@@ -1,0 +1,9 @@
+c:\users\andrebaltieri\documents\visual studio 2013\Projects\OAuthServer\OAuthServer.Domain.Tests\bin\Debug\OAuthServer.Domain.Tests.dll
+c:\users\andrebaltieri\documents\visual studio 2013\Projects\OAuthServer\OAuthServer.Domain.Tests\bin\Debug\OAuthServer.Domain.Tests.pdb
+c:\users\andrebaltieri\documents\visual studio 2013\Projects\OAuthServer\OAuthServer.Domain.Tests\bin\Debug\OAuthServer.Domain.dll
+c:\users\andrebaltieri\documents\visual studio 2013\Projects\OAuthServer\OAuthServer.Domain.Tests\bin\Debug\OAuthServer.Resources.dll
+c:\users\andrebaltieri\documents\visual studio 2013\Projects\OAuthServer\OAuthServer.Domain.Tests\bin\Debug\OAuthServer.Domain.pdb
+c:\users\andrebaltieri\documents\visual studio 2013\Projects\OAuthServer\OAuthServer.Domain.Tests\bin\Debug\OAuthServer.Resources.pdb
+c:\users\andrebaltieri\documents\visual studio 2013\Projects\OAuthServer\OAuthServer.Domain.Tests\obj\Debug\OAuthServer.Domain.Tests.csprojResolveAssemblyReference.cache
+c:\users\andrebaltieri\documents\visual studio 2013\Projects\OAuthServer\OAuthServer.Domain.Tests\obj\Debug\OAuthServer.Domain.Tests.dll
+c:\users\andrebaltieri\documents\visual studio 2013\Projects\OAuthServer\OAuthServer.Domain.Tests\obj\Debug\OAuthServer.Domain.Tests.pdb

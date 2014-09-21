@@ -1,0 +1,7 @@
+c:\users\andrebaltieri\documents\visual studio 2013\Projects\OAuthServer\OAuthServer.Resources\bin\Debug\OAuthServer.Resources.dll
+c:\users\andrebaltieri\documents\visual studio 2013\Projects\OAuthServer\OAuthServer.Resources\bin\Debug\OAuthServer.Resources.pdb
+c:\users\andrebaltieri\documents\visual studio 2013\Projects\OAuthServer\OAuthServer.Resources\obj\Debug\OAuthServer.Resources.csprojResolveAssemblyReference.cache
+c:\users\andrebaltieri\documents\visual studio 2013\Projects\OAuthServer\OAuthServer.Resources\obj\Debug\OAuthServer.Resources.AuthenticationResources.resources
+c:\users\andrebaltieri\documents\visual studio 2013\Projects\OAuthServer\OAuthServer.Resources\obj\Debug\OAuthServer.Resources.csproj.GenerateResource.Cache
+c:\users\andrebaltieri\documents\visual studio 2013\Projects\OAuthServer\OAuthServer.Resources\obj\Debug\OAuthServer.Resources.dll
+c:\users\andrebaltieri\documents\visual studio 2013\Projects\OAuthServer\OAuthServer.Resources\obj\Debug\OAuthServer.Resources.pdb

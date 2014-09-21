@@ -1,0 +1,14 @@
+c:\users\andrebaltieri\documents\visual studio 2013\Projects\OAuthServer\OAuthServer.Data\bin\Debug\OAuthServer.Data.dll.config
+c:\users\andrebaltieri\documents\visual studio 2013\Projects\OAuthServer\OAuthServer.Data\bin\Debug\OAuthServer.Data.dll
+c:\users\andrebaltieri\documents\visual studio 2013\Projects\OAuthServer\OAuthServer.Data\bin\Debug\OAuthServer.Data.pdb
+c:\users\andrebaltieri\documents\visual studio 2013\Projects\OAuthServer\OAuthServer.Data\bin\Debug\EntityFramework.dll
+c:\users\andrebaltieri\documents\visual studio 2013\Projects\OAuthServer\OAuthServer.Data\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\andrebaltieri\documents\visual studio 2013\Projects\OAuthServer\OAuthServer.Data\bin\Debug\OAuthServer.Domain.dll
+c:\users\andrebaltieri\documents\visual studio 2013\Projects\OAuthServer\OAuthServer.Data\bin\Debug\OAuthServer.Resources.dll
+c:\users\andrebaltieri\documents\visual studio 2013\Projects\OAuthServer\OAuthServer.Data\bin\Debug\OAuthServer.Domain.pdb
+c:\users\andrebaltieri\documents\visual studio 2013\Projects\OAuthServer\OAuthServer.Data\bin\Debug\EntityFramework.xml
+c:\users\andrebaltieri\documents\visual studio 2013\Projects\OAuthServer\OAuthServer.Data\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\andrebaltieri\documents\visual studio 2013\Projects\OAuthServer\OAuthServer.Data\bin\Debug\OAuthServer.Resources.pdb
+c:\users\andrebaltieri\documents\visual studio 2013\Projects\OAuthServer\OAuthServer.Data\obj\Debug\OAuthServer.Data.csprojResolveAssemblyReference.cache
+c:\users\andrebaltieri\documents\visual studio 2013\Projects\OAuthServer\OAuthServer.Data\obj\Debug\OAuthServer.Data.dll
+c:\users\andrebaltieri\documents\visual studio 2013\Projects\OAuthServer\OAuthServer.Data\obj\Debug\OAuthServer.Data.pdb
